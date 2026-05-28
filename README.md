@@ -1,6 +1,6 @@
 # Retail Sales Analysis — SQL Portfolio Project
 
-Analyzed retail sales data across 10 stores, 500 customers, and 3,000 orders using **SQL Server (T-SQL)** — uncovering revenue trends, customer behavior, and business performance insights through structured querying and advanced analytics.
+Analyzed a multi-store retail sales dataset using **SQL Server (T-SQL)** — uncovering revenue trends, customer behavior, and business performance insights through structured querying and advanced analytics.
 
 ---
 
